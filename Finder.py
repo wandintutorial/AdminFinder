@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Creator :  ./Wandintutorial
+# Creator :  ./wandintutorial
 # Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
