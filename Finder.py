@@ -80,10 +80,10 @@ if __name__ == '__main__':
    / /\ \ / _` |  _ ` _ \| | '_ \  |  __| | |  _ \ / _` |/ _ \  __|
   / ____ \ (_| | | | | | | | | | | | |    | | | | | (_| |  __/ |   
  /_/    \_\__,_|_| |_| |_|_|_| |_| |_|    |_|_| |_|\__,_|\___|_|   
-                            Creator : ./Fukur0
+                            Creator : ./wandintutorial
 '''
 
 		print('Usage : ' + sys.argv[0] + ' www.site.com')
-		print('YouTube : Jejak Cyber')
+		print('YouTube : Wandin Tutorial')
 	else:
 		main()
