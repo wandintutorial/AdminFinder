@@ -17,7 +17,7 @@ This Code Was Created To Look For Admin Login Or Admin Page To Login Website.
 $ pkg install git 
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/Fukur0-3XP/AdminFinder
+$ git clone https://github.com/wandintutorial/AdminFinder
 $ cd AdminFinder
 $ python2 Finder.py
 ```
